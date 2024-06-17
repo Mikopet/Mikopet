@@ -1,16 +1,14 @@
+![](https://raw.githubusercontent.com/Mikopet/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Mikopet/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Mikopet/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Mikopet/gh-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ## Hi there 👋
 
-<!--
-**Mikopet/Mikopet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a core developer and foundation member of the [Verso browser] from the beginnings. Also I contribute to its dependency [Servo].
 
-Here are some ideas to get you started:
+I identify as an `IT generalist` with a main expertise in cloud architectures, devops and web programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Verso browser]: https://github.com/versotile-org/verso
+[Servo]: https://github.com/servo/servo
